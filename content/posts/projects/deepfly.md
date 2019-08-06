@@ -1,5 +1,5 @@
 ---
-title: "A bottom-up recommender System for travel destinations"
+title: "A bottom-up recommender system for travel destinations"
 date: 2019-08-03T21:11:12+08:00
 tags:
     - Data Science
