@@ -18,7 +18,7 @@ theme = "hyde-hyde"
 [params]
     author = "RB"
     title = "IMbbb"
-    # description = "..."
+    # description = "Data Scientist"
     authorimage = "/img/raja_profile.JPG"
     dateformat = "Jan 2, 2006"
 
@@ -55,17 +55,13 @@ theme = "hyde-hyde"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
-[[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 300
+    weight = 100
     url = "/about/"
+[[menu.main]]
+    name = "Posts"
+    weight = 200
+    identifier = "posts"
+    url = "/posts/"
+
